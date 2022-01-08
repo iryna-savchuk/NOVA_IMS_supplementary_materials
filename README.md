@@ -2,11 +2,11 @@ Supplimentary materials for the DM Group Project (Group_Z):
 
 These animations were built with the help of t-SNE method and illustrate the results of the chosen clustering models:
 
-1) **K-Means model (based on all metric features)**:
+1) **K-Means model (based on the metric features)**:
 
 ![K-Means (based on all metric features)](1_kmeans.gif) [](1_kmeans.gif)
 
-2) **K-Means model (based on the Behaviour group of features)**:
+2) **K-Means model (based only on the Behaviour group of features)**:
 
 ![K-Means (based on Behaviour metric features)](2_kmeans_beha.gif) [](2_kmeans_beha.gif)
 
